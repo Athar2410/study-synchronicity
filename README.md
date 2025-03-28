@@ -93,14 +93,12 @@ yarn dev
 
 Contributions are welcome! Please feel free to submit a Pull Request.
 
-## 📄 License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
 ## 👥 Authors
 
-- [Your Name](https://github.com/yourusername)
-
+- Divyaansh Rai Gandhi
+- Atharva Amle
+- Parv Khandelwal
+- Jaikrit Singh Khichi
 ## 🙏 Acknowledgments
 
 - [shadcn/ui](https://ui.shadcn.com/) for the beautiful UI components
